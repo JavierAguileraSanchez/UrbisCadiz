@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "920879730042",
+    "project_id": "urbis-53c81",
+    "storage_bucket": "urbis-53c81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920879730042:android:4158642a6fff5ba86bdac3",
+        "android_client_info": {
+          "package_name": "com.example.urbis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAx4mZBhYHkSA2en3pOBTi28TIkWfiJ8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920879730042:android:1944368116f564816bdac3",
+        "android_client_info": {
+          "package_name": "com.example.urbix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAx4mZBhYHkSA2en3pOBTi28TIkWfiJ8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
