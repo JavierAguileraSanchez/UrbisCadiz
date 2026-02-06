@@ -25,8 +25,3 @@ La aplicación permite a los ciudadanos actuar como "sensores de accesibilidad".
 El proyecto sigue el patrón arquitectónico **MVVM (Model-View-ViewModel)** y los principios de **Clean Architecture**, garantizando un código mantenible, testable y escalable.
 
 
-
-##  Instalación y Despliegue
-1. **Clonar el repo:**
-   ```bash
-   git clone [https://github.com/tu-usuario/urbis-cadiz.git](https://github.com/JavierAguileraSanchez/urbis-cadiz.git)
