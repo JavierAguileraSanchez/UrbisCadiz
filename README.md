@@ -96,7 +96,7 @@ En Urbis Cádiz, la transformación de reportes individuales en datos colectivos
 ### Guías de ayuda
 
 Estrategias para garantizar una experiencia accesible y profesional para ciudadanos y gestores.
-- [`Guías de ayuda`](GuiasAyuda.md)
+- [`Guías de ayuda`](GuiaAyuda.md)
 
 ---
 
