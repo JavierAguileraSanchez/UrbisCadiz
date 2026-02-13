@@ -103,7 +103,7 @@ Estrategias para garantizar una experiencia accesible y profesional para ciudada
 ## Empaquetado de la aplicación
 
 Planificación de la distribución, firma digital y construcción del paquete para su instalación en dispositivos Android.
-- [`Empaquetado de la Aplicación`](EmpaquetadoAplicación.md)
+- [`Empaquetado de la Aplicación`](Empaquetado.md)
 
 ---
 
