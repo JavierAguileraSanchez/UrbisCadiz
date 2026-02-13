@@ -125,5 +125,4 @@ Análisis de rendimiento, seguridad de las reglas de Firebase y pruebas de estr�
 
 Tutorial visual para resolver dudas sobre el uso de la interfaz y las herramientas NUI.
 
-- [`Vídeo Tutorial`](app/src/main/res/drawable/TutorialUrbis.mkv)
-- [`Vídeo de Notificaciones`](evidencias/prueba_notificaciones.mp4)
+- [`Vídeo Tutorial`](https://drive.google.com/file/d/1t3YqziA5TgV1LtBkHJcCq3_YOMf4wpTA/view?usp=sharing)
