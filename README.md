@@ -82,7 +82,7 @@ El diseño se centra en la **eficacia y la reducción de la carga cognitiva**. S
 
 - Acerca de las herramientas de componentes usadas: [`Herramientas Usadas`](herramientas/HerramientasUsadas.md)
 - Acerca del `RA2.a Herramientas NUI`: [`Herramientas NUI`](herramientas/HerramientasNUI.md)
-- Acerca del `RA2.b Diseño teórico NUI`: [`Diseño Conceptual NUI`](herramientas/DiseñoNUI.md)
+- Acerca del `RA2.b Diseño teórico NUI`: [`Diseño NUI`](herramientas/DiseñoNUI.md)
 - Acerca del `RA2.c Interacción por voz`: [`Interacción por voz`](herramientas/InteracciónVoz.md)
 - Acerca del `RA2.d Interacción por gesto`: [`Interacción por gesto`](herramientas/InteracciónGesto.md)
 - Acerca del `RA2.e Detección facial/corporal`: [`Detección facial o corporal`](herramientas/DetecciónCorporal.md)
