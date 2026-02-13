@@ -1,4 +1,4 @@
-# 🗺️ Manual de Usuario: Urbis Cádiz
+#  Manual de Usuario: Urbis Cádiz
 
 Esta guía detalla las funciones de la aplicación **Urbis Cádiz** según el perfil de acceso del usuario, permitiendo la colaboración ciudadana y la gestión técnica de la accesibilidad urbana.
 
