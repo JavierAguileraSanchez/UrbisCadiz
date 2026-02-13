@@ -31,8 +31,6 @@ Para organizar las clases y funciones siguiendo principios de **Clean Architectu
   - [`Carpeta Screens`](app/src/main/java/com/example/urbis/ui/screens): Alberga las pantallas principales junto a sus estados de interfaz.
   - [`Carpeta Theme`](app/src/main/java/com/example/urbis/ui/theme): Gestiona la identidad visual (colores, tipografía y formas) basada en Material 3.
   - [`Carpeta ViewModel`](app/src/main/java/com/example/urbis/ui/viewmodel): Controladores de estado que coordinan la lógica necesaria para que la interfaz reaccione a los cambios de datos en tiempo real.
-- [`Directorio Utils`](app/src/main/java/com/example/urbis/utils): Contiene utilidades específicas como el manejo de reconocimiento de voz y geocodificación.
-
 ---
 
 ## Flujo del programa
